@@ -1,5 +1,14 @@
-## Olá, o meu nome é Liza! 
-### Sejam todos Bem-vindxs ao meu perfil GitHub!
+# Olá, o meu nome é Liza! 
+
+<br>
+<div align="center">
+  <a href="https://github.com/LiihDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiihDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiihDev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<br>
+
+## :blush: Sobre Mim ...
 
  <li>🤩️ Apaixonada por Tecnologia, Filmes e Ilustração.</li>
  <li>💻 Sou aluna <a href="https://www.sp.senai.br/" target="_blank">SENAI</a>, do curso de Desenvolvimento de Sistemas. Além disso, também sou aluna das seguintes plataformas: <a href="https://www.dio.me" target="_blank">DIO<a/>, <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
@@ -8,19 +17,10 @@
 <li>🚀 Atualmente me aprofundando em: <b>ReactJS</b> e <b>Javascript</b>.</li>
 <br>
 
+## :mortar_board: Estou Aprendendo ...
+<img align="right" width="450px" height="300px" alt="quote" src="https://media2.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e472t7rnzf10xzcs2kr0tyoctjkrqt0tdx2au8t1keq&rid=giphy.gif&ct=g"/>
 
-
-<div align="center">
-  <a href="https://github.com/LiihDev">
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiihDev&langs_count=8&theme=tokyonight&hide_border=true">
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=LiihDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LiihDev&theme=tokyonight">
-</div>
-
-### 🌱 Estou aprendendo ...
-<img align="right" width="280px" alt="quote" src="https://media4.giphy.com/media/ahAqpIW3GR0sw/giphy.gif?cid=ecf05e47jxqlr8p4hfde5484axd9dzm0g37dvcw6r627ktl6&rid=giphy.gif&ct=g"/>
-
-<table align="left" height="300px">
+<table align="left" height="300px" width"500px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
@@ -184,25 +184,10 @@
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">
-<details open>
-<summary>📈 &ensp; <i> Atividade</i></summary>
-<br>
-
 ![Snake animation](https://github.com/LiihDev/LiihDev/blob/output/github-contribution-grid-snake.svg)
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=LiihDev&theme=tokyo-night&hide_border=true">
-<br><br>
-
-
-
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Luk4x&theme=tokyonight&hide_border=true">
+<img align="right" width="450px" height="190px" alt="quote" src="https://media3.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif?cid=ecf05e472t7rnzf10xzcs2kr0tyoctjkrqt0tdx2au8t1keq&rid=giphy.gif&ct=g"/>
 </div>
 </details>
-
-
-
-
-
-
-
-

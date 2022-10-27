@@ -1,20 +1,20 @@
 # Olá, o meu nome é Liza! 
 
+## :blush: Sobre Mim ...
+
+ <li>🤩️ Apaixonada por Tecnologia, Filmes e Ilustração.</li>
+ <li>💻 Sou aluna <a href="https://www.sp.senai.br/" target="_blank">SENAI</a>, do curso de Desenvolvimento de Sistemas. Além disso, participo da aprendizagem das plataformas: <a href="https://www.dio.me" target="_blank">DIO<a/>, <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
+<li>🔭 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.</li>
+<li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
+<li>🚀 Atualmente me aprofundando em: <b>ReactJS</b> e <b>Javascript</b>.</li>
+<br>
+
 <br>
 <div align="center">
   <a href="https://github.com/LiihDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiihDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiihDev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<br>
-
-## :blush: Sobre Mim ...
-
- <li>🤩️ Apaixonada por Tecnologia, Filmes e Ilustração.</li>
- <li>💻 Sou aluna <a href="https://www.sp.senai.br/" target="_blank">SENAI</a>, do curso de Desenvolvimento de Sistemas. Além disso, também sou aluna das seguintes plataformas: <a href="https://www.dio.me" target="_blank">DIO<a/>, <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
-<li>🔭 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.</li>
-<li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
-<li>🚀 Atualmente me aprofundando em: <b>ReactJS</b> e <b>Javascript</b>.</li>
 <br>
 
 ## :mortar_board: Estou Aprendendo ...
@@ -100,7 +100,7 @@
       <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br>
       <sub>
         <b>
-          <pre>JQuery</pre>
+          <pre>Python</pre>
         </b>
       </sub>
     </td>
@@ -110,7 +110,7 @@
       <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
       <sub>
         <b>
-          <pre>ViteJS</pre>
+          <pre>MySQL</pre>
         </b>
       </sub>
     </td>
@@ -118,7 +118,7 @@
       <img src="https://user-images.githubusercontent.com/86276393/196552659-0e3000fc-aa8c-4d49-b14f-1d233f1d2b5e.png" width="65px" alt="Create React App icon"/><br>
       <sub>
         <b>
-          <pre>&ensp;CRA&ensp;</pre>
+          <pre>Packet Tracer</pre>
         </b>
       </sub>
     </td>
@@ -126,7 +126,7 @@
       <img src="https://skillicons.dev/icons?i=express" width="65px" alt="ExpressJS icon"/><br>
       <sub>
         <b>
-          <pre>ExpressJS</pre>
+          <pre>React Native</pre>
         </b>
       </sub>
     </td>
@@ -142,7 +142,7 @@
       <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br>
       <sub>
         <b>
-          <pre>&ensp;Axios&ensp;</pre>
+          <pre>Expo</pre>
         </b>
       </sub>
     </td>
@@ -152,7 +152,7 @@
       <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
       <sub>
         <b>
-          <pre>Insomnia</pre>
+          <pre>PHP</pre>
         </b>
       </sub>
     </td>
@@ -188,6 +188,6 @@
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=LiihDev&theme=tokyo-night&hide_border=true">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Luk4x&theme=tokyonight&hide_border=true">
-<img align="right" width="450px" height="190px" alt="quote" src="https://media3.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif?cid=ecf05e472t7rnzf10xzcs2kr0tyoctjkrqt0tdx2au8t1keq&rid=giphy.gif&ct=g"/>
+<img align="right" width="470px" height="190px" alt="quote" src="https://media3.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif?cid=ecf05e472t7rnzf10xzcs2kr0tyoctjkrqt0tdx2au8t1keq&rid=giphy.gif&ct=g"/>
 </div>
 </details>

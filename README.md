@@ -1,7 +1,5 @@
 # Olá, o meu nome é Liza! 
 
-![Snake animation](https://github.com/LiihDev/LiihDev/blob/output/github-contribution-grid-snake.svg)
-
 ## :blush: Sobre Mim ...
 
  <li>🤩️ Apaixonada por Tecnologia, Filmes e Ilustração.</li>
@@ -17,9 +15,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiihDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiihDev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+  ![Snake animation](https://github.com/LiihDev/LiihDev/blob/output/github-contribution-grid-snake.svg)
 <br>
 
 ## :mortar_board: Tecnologias e Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
 
 <div align="center">
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

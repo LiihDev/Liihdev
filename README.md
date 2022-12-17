@@ -1,7 +1,5 @@
 # Olá, o meu nome é Liza! 
 
-## :blush: Sobre Mim ...
-
  <li>🤩️ Apaixonada por Tecnologia, Filmes e Ilustração.</li>
  <li>💻 Sou aluna <a href="https://www.sp.senai.br/" target="_blank">SENAI</a>, do curso de Desenvolvimento de Sistemas. Além disso, participo da aprendizagem das plataformas: <a href="https://www.dio.me" target="_blank">DIO<a/>, <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
 <li>🔭 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.</li>

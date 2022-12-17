@@ -3,10 +3,8 @@
 ## :raising_hand: Sobre Mim
 
 Apaixonada por Tecnologia, Filmes e Ilustração.<br>
-Sou aluna <a href="https://www.sp.senai.br/" target="_blank">SENAI</a>, do curso de Desenvolvimento de Sistemas. Além disso, participo da aprendizagem das plataformas: <a href="https://www.dio.me" target="_blank">DIO<a/>, <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.<br>
-Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.<br>
-Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.<br>
-Atualmente me aprofundando em: <b>React</b> e <b>Javascript</b>.<br>
+Sou aluna <a href="https://www.sp.senai.br/" target="_blank">SENAI</a>, do curso de Desenvolvimento de Sistemas. Além disso, participo da aprendizagem das plataformas: <a href="https://www.dio.me" target="_blank">DIO<a/>, <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>. Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.<br>
+Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.<br> Atualmente me aprofundando em: <b>React</b> e <b>Javascript</b>.<br>
  
 ## 💻 Ferramentas e Tecnologias
 <img src="https://img.shields.io/badge/Canva-0a9396?style=for-the-badge&logo=canva&logoColor=white" target="_blank"></a>

@@ -7,19 +7,20 @@ Sou aluna <a href="https://www.sp.senai.br/" target="_blank">SENAI</a>, do curso
 Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.<br> Atualmente me aprofundando em: <b>React</b> e <b>Javascript</b>.<br>
  
 ## 💻 Ferramentas e Tecnologias
-<img src="https://img.shields.io/badge/Canva-0a9396?style=for-the-badge&logo=canva&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/CSS3-1b4965?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Git-f24b04?style=for-the-badge&logo=git&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Github-0c0f0a?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/HTML5-eb6424?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/Ilustrator-bc8034?style=for-the-badge&logo=adobeillustrator&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/JavaScript-f3de2c?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+<img src="https://img.shields.io/badge/Python-5d2a42?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+<br>
+
+## :minidisc: Softwares
+<img src="https://img.shields.io/badge/Canva-0a9396?style=for-the-badge&logo=canva&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/Ilustrator-bc8034?style=for-the-badge&logo=adobeillustrator&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Microsoft Office-f24b04?style=for-the-badge&logo=microsoftoffice&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Linux-0c0f0a?style=for-the-badge&logo=linux&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Photoshop-022b3a?style=for-the-badge&logo=adobephotoshop&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/Python-5d2a42?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/React-218380?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/React Native-16697a?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Windows-613f75?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
 <br>
 
@@ -38,8 +39,6 @@ Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois 
 ![Snake animation](https://github.com/LiihDev/LiihDev/blob/output/github-contribution-grid-snake.svg)
 
 ## :iphone: Contato
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/coda_lizzah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:liihdevfranca@gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lizdevfranca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   

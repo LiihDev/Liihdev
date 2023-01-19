@@ -18,7 +18,7 @@ Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois 
 ## :minidisc: Softwares
 <img src="https://img.shields.io/badge/Canva-0a9396?style=for-the-badge&logo=canva&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Ilustrator-bc8034?style=for-the-badge&logo=adobeillustrator&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/Microsoft Office-f24b04?style=for-the-badge&logo=microsoftoffice&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/PowerBI-f24b04?style=for-the-badge&logo=powerbi&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Linux-0c0f0a?style=for-the-badge&logo=linux&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Photoshop-022b3a?style=for-the-badge&logo=adobephotoshop&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Windows-613f75?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>

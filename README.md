@@ -26,7 +26,7 @@ Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois 
 
 ## 🚀 Certificações
 <img src="https://img.shields.io/badge/AI900 - Azure-58a4b0?style=for-the-badge&logo=microsoftazure&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/GCDF - Google Cloud Foundation-eb6424?style=for-the-badge&logo=googlecloud&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/GCP - Google Cloud Foundation-eb6424?style=for-the-badge&logo=googlecloud&logoColor=white" target="_blank"></a>
 <br>
 
 ## :mortar_board: Github Stats

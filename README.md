@@ -32,7 +32,7 @@ Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois 
 ## 🚀 Certificações
 <div align="center">
 <img src="https://img.shields.io/badge/AI900-2f2fd0?style=for-the-badge&logo=microsoftazure&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/GCP Google Cloud Foundation-572fd0?style=for-the-badge&logo=googlecloud&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/GCP-572fd0?style=for-the-badge&logo=googlecloud&logoColor=white" target="_blank"></a>
 </div>
 
 ## Treinamentos Realizados

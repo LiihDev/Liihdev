@@ -46,7 +46,6 @@ Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois 
 </div>
 
 
-
 ## :mortar_board: Github Stats
 <div align="center">
 <a href="https://github.com/LiihDev">

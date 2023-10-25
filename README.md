@@ -54,4 +54,4 @@ Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiihDev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-![snake gif](https://github.com/LiihDev/LiihDev/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/LiihDev/LiihDev/blob/output/github-contribution-grid-snake2.svg)

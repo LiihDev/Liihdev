@@ -1,6 +1,6 @@
 <img src="https://github.com/LiihDev/Liihdev/blob/main/LIZA%20FRAN%C3%87A%20(1).gif" target="_blank"></a><br>
 <div align="center">
-<a href="https://instagram.com/coda_lizzah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/franca_liih" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:liihdevfranca@gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lizdevfranca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
@@ -40,6 +40,8 @@ E aí, galera! Sou a Liza, uma instrutora do SENAI que carrega uma mistura inusi
 <img src="https://img.shields.io/badge/DP900-d02fa8?style=for-the-badge&logo=microsoftazure&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/GCP 900-d02f80?style=for-the-badge&logo=googlecloud&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/GCP AI 900-d02f57?style=for-the-badge&logo=googlecloud&logoColor=white" target="_blank"></a>
+ <img src="https://img.shields.io/badge/GCP Engineer-d85374?style=for-the-badge&logo=googlecloud&logoColor=white" target="_blank"></a>
+
 </div>
 
 
@@ -50,4 +52,3 @@ E aí, galera! Sou a Liza, uma instrutora do SENAI que carrega uma mistura inusi
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiihDev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-![snake animation](https://github.com/LiihDev/LiihDev/blob/output/github-contribution-grid-snake2.svg)

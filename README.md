@@ -1,4 +1,4 @@
-<img src="https://github.com/LiihDev/Liihdev/blob/main/LIZA%20FRAN%C3%87A%20(1).gif" target="_blank"></a><br>
+<img src="https://github.com/LiihDev/Liihdev/blob/main/liza.franca.gif" target="_blank"></a><br>
 <div align="center">
 <a href="https://instagram.com/franca_liih" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:liihdevfranca@gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

@@ -1,4 +1,4 @@
-<img src="https://github.com/LiihDev/Liihdev/blob/main/LIZA%20FRAN%C3%87A.gif" target="_blank"></a><br>
+<img src="https://github.com/LiihDev/Liihdev/blob/main/LIZA%20FRAN%C3%87A%20(1).gif" target="_blank"></a><br>
 <div align="center">
 <a href="https://instagram.com/coda_lizzah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:liihdevfranca@gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -6,10 +6,7 @@
 
 ## :raising_hand: Sobre Mim
 
-Apaixonada por Tecnologia, Filmes e Ilustração.<br>
-Sou aluna <a href="https://www.sp.senai.br/" target="_blank">SENAI</a>, do curso de Desenvolvimento de Sistemas. Além disso, participo da aprendizagem das plataformas: <a href="https://www.dio.me" target="_blank">DIO<a/>, <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>. Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.<br>
-Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.<br> Atualmente me aprofundando em: <b>React</b> e <b>Javascript</b>.
-<br>
+E aí, galera! Sou a Liza, uma instrutora do SENAI que carrega uma mistura inusitada de conhecimentos em Desenvolvimento de Sistemas e Direito. É isso mesmo, sou meio nerd da tecnologia e meio advogada das leis! Desde sempre fui fissurada em entender como as coisas funcionam, seja no código de um programa ou no emaranhado de leis que regem nosso dia a dia. E agora, como instrutora, tenho a oportunidade de combinar esses dois mundos malucos para trazer um jeito diferente de ver as coisas para a sala de aula.
  
 ## 💻 Ferramentas e Tecnologias
 <div align="center">

@@ -50,8 +50,7 @@ E aí, galera! Sou a Liza, uma instrutora do SENAI que carrega uma mistura inusi
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+![GitHub Snake Light](https://github.com/LiihDev/github-readme-stats/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/LiihDev/github-readme-stats/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
   

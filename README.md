@@ -1,4 +1,4 @@
-<img src="https://github.com/LiihDev/Liihdev/blob/main/liza.franca.gif" target="_blank"></a><br>
+<img src="https://github.com/LiihDev/Liihdev/blob/main/LIZA%20FRAN%C3%87A.gif"></a><br>
 <div align="center">
 <a href="https://instagram.com/franca_liih" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:liihdevfranca@gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -27,7 +27,7 @@ E aí, galera! Sou a Liza, uma instrutora do SENAI que carrega uma mistura inusi
 <img src="https://img.shields.io/badge/GCP-572fd0?style=for-the-badge&logo=googlecloud&logoColor=white" target="_blank"></a>
 </div>
 
-## :Treinamentos Realizados
+## :runner: Treinamentos Realizados
 <div align="center">
 <img src="https://img.shields.io/badge/AWS-802fd0?style=for-the-badge&logo=awsamazon&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/AI900-a82fd0?style=for-the-badge&logo=microsoftazure&logoColor=white" target="_blank"></a>
@@ -39,18 +39,9 @@ E aí, galera! Sou a Liza, uma instrutora do SENAI que carrega uma mistura inusi
 
 </div>
 
-
 ## :mortar_board: Github Stats
 <div align="center">
 <a href="https://github.com/LiihDev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiihDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiihDev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-![GitHub Snake Light](https://github.com/LiihDev/github-readme-stats/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/LiihDev/github-readme-stats/blob/output/github-snake-dark.svg#gh-dark-mode-only)
-
-  
+</div> 

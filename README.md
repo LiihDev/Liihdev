@@ -6,19 +6,18 @@
 
 ## :raising_hand: Sobre Mim
 
-E aí, galera! Sou a Liza, uma instrutora do SENAI que carrega uma mistura inusitada de conhecimentos em Desenvolvimento de Sistemas e Direito. É isso mesmo, sou meio nerd da tecnologia e meio advogada das leis! Desde sempre fui fissurada em entender como as coisas funcionam, seja no código de um programa ou no emaranhado de leis que regem nosso dia a dia. E agora, como instrutora, tenho a oportunidade de combinar esses dois mundos malucos para trazer um jeito diferente de ver as coisas para a sala de aula.
+Sou instrutora no @SENAI, apaixonada pela a área de dados sempre buscando transformar grandes volumes de dados em insights acionáveis. Tenho experiência em Python, SQL e Power BI, com foco em otimização de processos e storytelling de dados. Me destaco por criar soluções baseadas em dados que geram impacto real nos negócios.
  
 ## 💻 Ferramentas e Tecnologias
 <div align="center">
- <img src="https://img.shields.io/badge/Canva-252422?style=for-the-badge&logo=canva&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/CSS3-252422?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
- <img src="https://img.shields.io/badge/Figma-252422?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/Excel-252422?style=for-the-badge&logo=microsoft-excel&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/Figma-252422?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Git-252422?style=for-the-badge&logo=git&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Github-252422?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/HTML5-252422?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/JavaScript-252422?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/PowerBI-252422?style=for-the-badge&logo=powerbi&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/Trello-252422?style=for-the-badge&logo=Trello&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/PowerBI-252422?style=for-the-badge&logo=microsoft-powerbi&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/Python-252422?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+ <img src="https://img.shields.io/badge/SQL-252422?style=for-the-badge&logo=sql&logoColor=white" target="_blank"></a>
+
 </div>
 
 ## 🚀 Certificações e Treinamentos Realizados
